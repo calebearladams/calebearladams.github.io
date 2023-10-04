@@ -7,7 +7,7 @@ layout: Default
 <div id="left" style="float: left; max-width: 30%;border: 10px"> 
     <img src="images/profile.jpg" />
 </div>
-<div id="right" style="float: right; width: 60%; vertical-align: middle;">
+<div id="right" style="float: right; width: 55%; vertical-align: middle;">
 <p> <b>Caleb Earl Adams</b> <br> <em>PhD Student</em> </p>
 <p> <a href="https://www.linkedin.com/in/caleb-earl-adams" target="blank">LinkedIn Profile</a><br>
 <div id="clearer" style="clear: both"> </div>
